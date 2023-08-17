@@ -1,6 +1,8 @@
 # Open-AI-and-Azure-Cognitive-Search-with-LangChain
 Open AI and Azure Cognitive Search with LangChain for Question Answering over Documents
 
+Please like my [Blog](https://medium.com/@yeshudatascience/open-ai-and-azure-cognitive-search-with-langchain-for-question-answering-over-documents-f35ce2a6dae4)
+
 Open AI and Azure Cognitive Search with LangChain for Question Answering over Documents
 Our motive is to unleashing the Power of Open AI for building Question-Answering app over documents.
 Question-Answering over Documents (QA over Documents) is a natural language processing (NLP) task that involves developing algorithms and models to automatically answer questions based on the content of a given document or set of documents.
